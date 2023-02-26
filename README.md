@@ -19,14 +19,12 @@
 ![image-20230226140251279](C:\Users\szdrz\AppData\Roaming\Typora\typora-user-images\image-20230226140251279.png)
 
 
-
-
-
-
-
-
-`启动：`  npm install 
-         npm install -g nodemon 
+启动过程：
+①安装node  版本推荐16.15.0
+②安装nodemon  npm install nodemon -g
+③进入serve目录，nodemon serve.js 启动本地9000端口服务器
+④进入cart_list 目录 npm install
+⑤npm run serve  开启快乐的旅途~
          
 
 
